@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  color: white;
+  height: 35px;
+}
+nav {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: cadetblue;
+}
+.logo {
+  width: 150px;
+  text-align: center;
+}
+form {
+  margin: 0 auto;
+  margin-left: 100px;
+}
+.formku {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: cadetblue;
+}
+table {
+  margin: 0 auto;
+  width: 800px;
+}
+.table {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: cadetblue;
+}
+.katalog {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: cadetblue;
+}
+.footer {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: cadetblue;
+  text-align: center;
+}

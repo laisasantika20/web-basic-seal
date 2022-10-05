@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url("https://iili.io/LmUyEN.png");
 }
 nav {
   width: 1000px;
@@ -55,6 +56,8 @@ nav ul li a {
   padding-bottom: 40px;
   width: 1000px;
   margin: 0 auto;
+  background: #8e7fff;
+  color: #f6f5ff;
 }
 hr {
   width: 100px;
@@ -66,12 +69,12 @@ hr {
   border-radius: 250px;
   margin-top: 40px;
   margin-left: 20px;
-  box-shadow: 8px -8px rgba(163, 161, 165, 0.6);
+  box-shadow: 8px -8px #e8e6ff;
 }
 .footer {
   width: 1000px;
   margin: 0 auto;
-  background-color: #ffffff;
+  background-color: #efeeff;
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -79,7 +82,7 @@ hr {
 .skill {
   padding-top: 20px;
   padding-bottom: 20px;
-  background-color: #d1ccfc;
+  background-color: #b9b1ff;
   width: 1000px;
   margin: 0 auto;
 }

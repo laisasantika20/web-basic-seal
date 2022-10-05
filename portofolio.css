@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url("https://iili.io/Q2JdDF.png");
 }
 h3 {
   color: white;
@@ -11,7 +12,7 @@ nav {
   margin: 0 auto;
   text-align: center;
   font-family: arial;
-  background: rgb(139, 202, 204);
+  background: #009999;
   box-shadow: 0 0.0625rem 0.375rem 0 rgb(0 0 0 / 10%);
   font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
 }
@@ -37,15 +38,6 @@ nav ul li a {
   color: #fff;
   text-decoration: none;
 }
-header {
-  width: 1000px;
-  margin: 0 auto;
-  background-color: cadetblue;
-}
-.logo {
-  width: 150px;
-  text-align: center;
-}
 form {
   margin: 0 auto;
   margin-left: 100px;
@@ -53,7 +45,7 @@ form {
 .formku {
   width: 1000px;
   margin: 0 auto;
-  background-color: cadetblue;
+  background: #2baaaa;
 }
 table {
   margin: 0 auto;
@@ -62,22 +54,25 @@ table {
 .table {
   width: 1000px;
   margin: 0 auto;
-  background-color: cadetblue;
+  background-color: #59c2c2;
 }
 .katalog {
   width: 1000px;
   margin: 0 auto;
-  background-color: cadetblue;
+  background: #81cfcf;
 }
 .footer {
   width: 1000px;
   margin: 0 auto;
-  background-color: cadetblue;
+  background-color: rgb(140, 223, 223);
   text-align: center;
 }
 hr {
   width: 100px;
 }
 th {
-  background: rgb(139, 202, 204);
+  background: rgb(174, 243, 247);
+}
+td {
+  background: rgb(220, 242, 243);
 }

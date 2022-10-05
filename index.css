@@ -44,20 +44,6 @@ nav ul li a {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-.column {
-  float: left;
-  height: 270px;
-  color: white;
-  width: 1000px;
-  margin: 0 auto;
-}
-
-.row:after {
-  display: table;
-  clear: both;
-  width: 1000px;
-  margin: 0 auto;
-}
 .foto {
   margin-left: 50px;
   margin-top: -270px;
@@ -72,20 +58,6 @@ nav ul li a {
 }
 hr {
   width: 100px;
-}
-.col1 {
-  width: 300px;
-  height: 200px;
-  margin-left: 270px;
-  background: #5f4dee;
-  padding: 20px;
-}
-.col2 {
-  width: 300px;
-  height: 200px;
-  margin-left: 100px;
-  background: #5f4dee;
-  padding: 20px;
 }
 .lingkaran {
   background: white;
